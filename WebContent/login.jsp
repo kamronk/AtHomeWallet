@@ -93,15 +93,15 @@ CoinInfo coin = new CoinInfo();
 						<section>
 							<h2>For help and support:</h2>
 							<p>
-								Please join us in our bitcointalk forum thread.
-								<a href="https://bitcointalk.org/index.php?topic=1079404.0" class=""><img width="50px" src="images/bitcointalkicon.png"/></a>
+								Please find my blog post regarding this app
+								<a href="http://kamronk.com/bitcoin-wallet/" class=""><img width="50px" src="http://kamronk.com/wp-content/uploads/2015/12/38458381.png"/></a>
 							</p>
 							<p>
-								Find us on social media
-								<a href="https://twitter.com/blockchaintechs" class=""><img width="50px" src="images/twitter_icon.png"/></a>
-								<a href="https://www.facebook.com/blockchaintechnologies" class=""><img width="50px" src="images/facebook_icon.png"/></a>
+								Find me on social media
+								<a href="https://twitter.com/kamronkennedy" class=""><img width="50px" src="images/twitter_icon.png"/></a>
+								<a href="https://www.facebook.com/kamron.kennedy" class=""><img width="50px" src="images/facebook_icon.png"/></a>
 							</p>
-							<p>Or email us, at <a href="mail:darren@blockchaintechs.com">darren@blockchaintechs.com</a></p>
+							<p>Or email me, at <a href="mail:kamronkennedy@gmail.com">kamronkennedy@gmail.com</a></p>
 						</section>
 					
 					</div>
@@ -119,7 +119,7 @@ CoinInfo coin = new CoinInfo();
 					<div class="12u">
 
 						<div id="copyright">
-							&copy; Blockchain Technologies Inc. All rights reserved. | Design: <a href="http://html5up.net">HTML5 UP</a>
+							&copy; Kamron K. All rights reserved. | Design: <a href="http://html5up.net">HTML5 UP</a>
 						</div>
 
 					</div>

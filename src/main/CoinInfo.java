@@ -11,16 +11,16 @@ import org.json.simple.parser.ParseException;
 
 public class CoinInfo {
 
-//	private String name = "Bitcoin";
-//	private String tickerSymbol = "BTC";
-//    private String walletFileName = "wallet.dat";
-//    private String linuxDataDirectoryName = "bitcoin";
-//    private String windowsDataDirectoryName = "Bitcoin";
-//    private String confFileName = "bitcoin.conf";
-//    private String port = "9368";
-//  private String website = "https://mazacoin.org/";
-//  private String blkExpAddressWebsite = "https://blockchain.info/address/";
-//  private String blkExpTransactionWebsite = "https://blockchain.info/tx/";
+	private String name = "Bitcoin";
+	private String tickerSymbol = "BTC";
+    private String walletFileName = "wallet.dat";
+    private String linuxDataDirectoryName = "bitcoin";
+    private String windowsDataDirectoryName = "Bitcoin";
+    private String confFileName = "bitcoin.conf";
+    private String port = "9368";
+    private String website = "https://mazacoin.org/";
+    private String blkExpAddressWebsite = "https://blockchain.info/address/";
+    private String blkExpTransactionWebsite = "https://blockchain.info/tx/";
 
 //	private String name = "Mazacoin";
 //	private String tickerSymbol = "MZC";
@@ -44,16 +44,16 @@ public class CoinInfo {
 //    private String blkExpAddressWebsite = "http://explorer.blockchaintechs.com/address/";
 //    private String blkExpTransactionWebsite = "http://explorer.blockchaintechs.com/tx/";
 
-	private String name = "Mintcoin";
-	private String tickerSymbol = "MINT";
-    private String walletFileName = "wallet.dat";
-    private String linuxDataDirectoryName = "MintCoin";
-    private String windowsDataDirectoryName = "MintCoin";
-    private String confFileName = "mintcoin.conf";
-    private String port = "9365";
-    private String website = "http://www.mintcoinofficial.com/";
-    private String blkExpAddressWebsite = "http://www.multifaucet.tk/index.php?blockexplorer=MINT&address=";
-    private String blkExpTransactionWebsite = "http://www.multifaucet.tk/index.php?blockexplorer=MINT&txid=";
+//	private String name = "Mintcoin";
+//	private String tickerSymbol = "MINT";
+//    private String walletFileName = "wallet.dat";
+//    private String linuxDataDirectoryName = "MintCoin";
+//    private String windowsDataDirectoryName = "MintCoin";
+//    private String confFileName = "mintcoin.conf";
+//    private String port = "9365";
+//    private String website = "http://www.mintcoinofficial.com/";
+//    private String blkExpAddressWebsite = "http://www.multifaucet.tk/index.php?blockexplorer=MINT&address=";
+//    private String blkExpTransactionWebsite = "http://www.multifaucet.tk/index.php?blockexplorer=MINT&txid=";
 	
 	public String getWebsite() {
 		return website;
