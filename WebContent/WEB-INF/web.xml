@@ -20,14 +20,6 @@
     <url-pattern>/LogInGetCookie</url-pattern>
   </servlet-mapping>
   <servlet>
-    <servlet-name>SendCoinAction</servlet-name>
-    <servlet-class>servlets.SendCoin</servlet-class>
-  </servlet>
-  <servlet-mapping>
-    <servlet-name>SendCoinAction</servlet-name>
-    <url-pattern>/SendCoinAction</url-pattern>
-  </servlet-mapping>
-  <servlet>
     <servlet-name>Home</servlet-name>
     <jsp-file>/index.jsp</jsp-file>
   </servlet>

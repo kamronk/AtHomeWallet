@@ -22,7 +22,7 @@ import main.PasswordManager;
 /**
  * Servlet implementation class SendCoin
  */
-@WebServlet("/SendCoin")
+@WebServlet("/SendCoinAction")
 public class SendCoin extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
