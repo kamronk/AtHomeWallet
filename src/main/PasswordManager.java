@@ -49,6 +49,8 @@ public class PasswordManager {
 	
 	public void savePw(String inputPwHash){
 		try {
+			File file = new File(System.getProperty("user.home") + "/temp/.stakerPw");
+			file.getParentFile().mkdirs();
 			BufferedWriter out = new BufferedWriter(new FileWriter(System.getProperty("user.home") + "/temp/.stakerPw"));
 			out.write(inputPwHash);
 			out.flush();

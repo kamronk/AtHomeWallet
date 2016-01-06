@@ -45,6 +45,7 @@ if (!loggedIn){
 		<link href="http://fonts.googleapis.com/css?family=Ubuntu+Condensed" rel="stylesheet">
 		<script src="js/jquery.min.js"></script>
 		<script src="js/jquery.tablesorter.pager.js"></script>
+		<script src="js/jquery.cookie.js"></script>
 		<script src="js/staker.js"></script>
 		<script src="js/skel.min.js"></script>
 		<script src="js/skel-layers.min.js"></script>
@@ -72,6 +73,7 @@ if (!loggedIn){
 								<a href="Transactions">Transactions</a>
 								<!-- <a href="./walletconsole.jsp">Wallet Console</a> -->
 								<a href="Settings">Settings</a>
+								<a href="javascript:logout()">Logout</a>
 							</nav>
 						</header>
 					

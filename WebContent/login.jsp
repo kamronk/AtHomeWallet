@@ -63,7 +63,7 @@ CoinInfo coin = new CoinInfo();
 									<h1> There are no restrictions or requirements for your password, but it must be atleast one character.</h1>
 									</br>
 									</br>
-									<span style="font-size: 20px; padding: 20px;"> Blockchain Technologies Inc (BTI) recommends 8 characters or more using uppercase letters, lower case letters, numbers and symbols.</span>
+									<span style="font-size: 20px; padding: 20px;"> It is recommended to use 8 characters or more with uppercase letters, lower case letters, numbers and symbols.</span>
 									</br>
 									</br>
 									</br>
@@ -94,10 +94,12 @@ CoinInfo coin = new CoinInfo();
 							<h2>For help and support:</h2>
 							<p>
 								Please find my blog post regarding this app
+								<br />
 								<a href="http://kamronk.com/bitcoin-wallet/" class=""><img width="50px" src="http://kamronk.com/wp-content/uploads/2015/12/38458381.png"/></a>
 							</p>
 							<p>
 								Find me on social media
+								<br />
 								<a href="https://twitter.com/kamronkennedy" class=""><img width="50px" src="images/twitter_icon.png"/></a>
 								<a href="https://www.facebook.com/kamron.kennedy" class=""><img width="50px" src="images/facebook_icon.png"/></a>
 							</p>

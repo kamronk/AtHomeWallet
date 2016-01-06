@@ -74,6 +74,7 @@ if (!loggedIn){
 								<a href="Transactions">Transactions</a>
 								<!-- <a href="./walletconsole.jsp">Wallet Console</a> -->
 								<a href="Settings" class="current-page-item">Settings</a>
+								<a href="javascript:logout()">Logout</a>
 							</nav>
 						</header>
 					

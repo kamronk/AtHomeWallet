@@ -7,6 +7,10 @@ function isnn(inVar){
 	}
 }
 
+function logout(){
+    $.removeCookie("pwHash");
+    window.location.href = "./";
+}
 
 $( document ).ready(function() {
 	console.log('In.');
